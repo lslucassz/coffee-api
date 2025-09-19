@@ -1,7 +1,7 @@
 # ☕ Coffee API
 
 API simples em **Node.js** que fornece uma lista de cafés quentes e gelados, incluindo título, descrição e ingredientes.  
-Essa API é utilizada pelo aplicativo **Coffee List** (React Native + Expo) https://github.com/lslucassz/coffee-list-ih.
+Essa API é utilizada pelo aplicativo **Coffee List** (React Native + Expo) [COFFEE LIST IH](https://github.com/lslucassz/coffee-list-ih).
 
 ---
 
